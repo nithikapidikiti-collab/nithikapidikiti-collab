@@ -1,4 +1,6 @@
-<img width="320" height="320" alt="Black and White Artistic Woman Portrait Instagram Profile Picture (2)" src="https://github.com/user-attachments/assets/74bb9340-b89f-4dc1-a01e-b89660b937aa" />Hi! I’m Nithika, a tech-focused student who loves building fun projects in cloud, data, and security. I learn best by shipping, experimenting, and breaking things (then fixing them).
+<img width="320" height="320" alt="Black and White Artistic Woman Portrait Instagram Profile Picture (2)" src="https://github.com/user-attachments/assets/74bb9340-b89f-4dc1-a01e-b89660b937aa" />
+
+Hi! I’m Nithika, a tech-focused student who loves building fun projects in cloud, data, and security. I learn best by shipping, experimenting, and breaking things (then fixing them).
 
 - BIT Co-Op Scholar @ UTS
 - Administrative Assistant @ ANG Solutions
@@ -7,6 +9,5 @@
 - 1st Place winner in the national ANSTO Hackathon
 - Built and explored projects across AWS, Python, SQL, and cloud security
 
-  [Google](https://nithikapidikiti.framer.website/)
+  [Website](https://nithikapidikiti.framer.website/)
   
-<img width="227" height="224" alt="image" src="https://github.com/user-attachments/assets/811c854e-682f-417f-8a03-9d115e86d8fd" />
