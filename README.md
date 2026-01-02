@@ -1,16 +1,12 @@
-## Hi there 👋
+<img width="320" height="320" alt="Black and White Artistic Woman Portrait Instagram Profile Picture (2)" src="https://github.com/user-attachments/assets/74bb9340-b89f-4dc1-a01e-b89660b937aa" />Hi! I’m Nithika, a tech-focused student who loves building fun projects in cloud, data, and security. I learn best by shipping, experimenting, and breaking things (then fixing them).
 
-<!--
-**nithikapidikiti-collab/nithikapidikiti-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- BIT Co-Op Scholar @ UTS
+- Administrative Assistant @ ANG Solutions
+- Founder & Director of HerOrigin, empowering young women in STEM
+- Completed hands-on certifications in AWS, Data Analytics, Cybersecurity, and GenAI
+- 1st Place winner in the national ANSTO Hackathon
+- Built and explored projects across AWS, Python, SQL, and cloud security
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [Google](https://nithikapidikiti.framer.website/)
+  
+<img width="227" height="224" alt="image" src="https://github.com/user-attachments/assets/811c854e-682f-417f-8a03-9d115e86d8fd" />
