@@ -1,4 +1,4 @@
-Hi! I’m Nithika, a BIT Co-op Scholar @UTS who loves building fun projects!! I learn best by shipping, experimenting, and breaking things (then fixing them).
+Hi! I’m Nithika, a BIT Co-op Scholar @ UTS who loves building fun projects!! I learn best by shipping, experimenting, and breaking things (then fixing them).
 
 ## 🔧 My Tech Stack
 
