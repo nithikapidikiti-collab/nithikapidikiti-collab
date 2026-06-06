@@ -1,11 +1,4 @@
-Hi! I’m Nithika, a tech-focused student who loves building fun projects!! I learn best by shipping, experimenting, and breaking things (then fixing them).
-
-- BIT Co-Op Scholar @ UTS
-- Administrative Assistant @ ANG Solutions
-- Founder of HerOrigin, empowering young women in STEM
-- Completed hands-on certifications in AWS, Data Analytics, Cybersecurity, and GenAI
-- 1st Place winner in the national ANSTO Hackathon
-- Built and explored projects across AWS, Python, SQL, and cloud security
+Hi! I’m Nithika, a BIT Co-op Scholar @UTS who loves building fun projects!! I learn best by shipping, experimenting, and breaking things (then fixing them).
 
 ## 🔧 Tech Stack
 
