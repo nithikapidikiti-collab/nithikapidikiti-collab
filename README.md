@@ -1,4 +1,4 @@
-Hi! I’m Nithika, a tech-focused student who loves building fun projects in cloud, data, and security. I learn best by shipping, experimenting, and breaking things (then fixing them).
+Hi! I’m Nithika, a tech-focused student who loves building fun projects!! I learn best by shipping, experimenting, and breaking things (then fixing them).
 
 - BIT Co-Op Scholar @ UTS
 - Administrative Assistant @ ANG Solutions
