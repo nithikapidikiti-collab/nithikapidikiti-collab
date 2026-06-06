@@ -1,6 +1,6 @@
 Hi! I’m Nithika, a BIT Co-op Scholar @UTS who loves building fun projects!! I learn best by shipping, experimenting, and breaking things (then fixing them).
 
-## 🔧 Tech Stack
+## 🔧 My Tech Stack
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,7 +44,7 @@ Hi! I’m Nithika, a BIT Co-op Scholar @UTS who loves building fun projects!! I 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
-## 🔗 Connect
+## 🔗 Let's Connect!!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithika-pidikiti/)
 
 <img width="320" height="320" alt="Black and White Artistic Woman Portrait Instagram Profile Picture (2)" src="https://github.com/user-attachments/assets/74bb9340-b89f-4dc1-a01e-b89660b937aa" />  
